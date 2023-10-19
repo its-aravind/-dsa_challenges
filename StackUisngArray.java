@@ -80,7 +80,10 @@ public class StackUisngArray {
                     System.out.println("you entered wrong choice try again!!");
             }
         }
+            
         while(ch!=5);
 
     }
 }
+
+// ----end---
